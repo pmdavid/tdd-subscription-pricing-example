@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker-compose run php-fpm vendor/bin/phpunit --testsuite='Unit' --order-by=random
+
