@@ -13,7 +13,7 @@ src/tests/Unit/Checkout/Domain/TieredPricingTest.php
 ```
 
 
-## Let's start
+## How to start
 
 ### Requirements
 - [Docker](https://www.docker.com/)
